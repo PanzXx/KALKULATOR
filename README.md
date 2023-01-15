@@ -1,15 +1,14 @@
-# KALKULATOR
-gabut aja cuy
+# TERMUX
 
 
-$pkg upgrade && pkg update
+$ pkg upgrade && pkg update
 
-$pkg install git
+$ pkg install git
 
-$pkg install python2
+$ pkg install python2
 
-$git clone https://github.com/PanzXx/KALKULATOR
+$ git clone https://github.com/PanzXx/KALKULATOR
 
-$cd KALKULATOR
+$ cd KALKULATOR
 
-$python2 KALKULATOR.py
+$ python2 KALKULATOR.py
